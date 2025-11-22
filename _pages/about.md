@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,7 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a researcher in psychology and behavioral science. I'm interested in investigating how people form judgments, interpret others’ behavior, and make decisions under uncertainty, using a combination of behavioral experiments and computational methods.
+
+From 2024 to 2025, I completed my Master’s degree in Social Sciences (Psychology concentration, STEM) at the University of Chicago, where I conducted my thesis on gender identity and aesthetic perception under the supervision of Dr. Daniel Albohn. During this time, I also worked on projects involving machine learning, agent-based modeling, and computational analysis of social judgments.
+
+Between 2022 and 2024, I conducted research in multiple labs at Rutgers University, contributing to projects in developmental psychology, social cognition, and computational modeling, including data-driven studies in collaboration with a computer science group working on mental-health assessment. I also worked as a therapist assistant in group psychodrama sessions, experiences that continue to shape my interest in social inference and decision-making.
+
+My research interests include judgment and decision-making, social cognition, and computational approaches to understanding human inference. I am particularly excited about how people form and update beliefs in complex social environments.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
