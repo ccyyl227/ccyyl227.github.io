@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome!"
-description              : "xx"
+description              : ""
 repository               : "ccyyl227.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yanyi Chen"
-  avatar           : "images/WechatIMG536.jpeg"
-  bio              : "University of Chicago"
+  avatar           : "images/IMG_1850.HEIC"
+  bio              : "University of Chicago""Rutgers University"
+  
   location         : "Chicago, USA"
   employer         :
   pubmed           : 
