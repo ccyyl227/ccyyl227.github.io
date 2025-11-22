@@ -25,7 +25,7 @@ Between 2022 and 2024, I conducted research in multiple labs under Rutgers Unive
 
 My research interests include judgment and decision-making, social cognition, and computational approaches to understanding human inference. I am particularly excited about how people form and update beliefs in complex social environments.
 
-You can find my CV <a href="../docs/YanyiC_CV_26Fall.pdf" target="_blank">here</a>
+You can find my CV <a href="../assets/YanyiC_CV_26Fall.pdf" target="_blank">here</a>
 
 
 {% comment %}
