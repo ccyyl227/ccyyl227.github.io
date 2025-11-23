@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanyi Chen"
   avatar           : "images/IMG_1850.png"
-  bio              : "University of Chicago" "Rutgers University"
+  bio              : "University of Chicago"
   
   location         : "Chicago, USA"
   employer         :
